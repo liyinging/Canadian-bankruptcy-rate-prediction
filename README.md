@@ -1,4 +1,5 @@
 # Canadian-bankruptcy-rate-prediction
+This project is to forecast the Canadian bankruptcy rate using time series models in R.
 
 ## Project Description
 Accurately forecasting national bankruptcy rates is of interest to national banks, insurance companies, credit-lenders, politicians etc. The goal of this project is to precisely and accurately forecast monthly bankruptcy rates for Canada. 
