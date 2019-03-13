@@ -20,10 +20,10 @@ There are numerous modeling approaches available to forecast bankruptcy rates. G
 Considering the questions above, different models were built for this problem.<br />
 
 ### Models
-- ARIMA/SARIMA (Box-Jenkins Approach) 
+- ARIMA/SARIMA 
 - Exponential Smoothing/Holt-Winters Approach
 - ARIMAX/SARIMAX
-- VAR/VARX (Vector Autoregression) 
+- VAR/VARX
 
 ## Forecasting
 ![Forecasting](https://user-images.githubusercontent.com/40928821/54242065-7d79ad00-44e0-11e9-91d7-b109fd3ed4ff.jpg)
